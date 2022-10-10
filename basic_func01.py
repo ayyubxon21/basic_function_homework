@@ -2,7 +2,5 @@
 
 # Return the value 0
 def main():
-    return 0
-
-print(main())    
+    return 0   
     
