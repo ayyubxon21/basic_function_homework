@@ -4,5 +4,5 @@
 
 # Return the negative value of a.
 def main(a):
-    return (-a)
+    return -a
     
