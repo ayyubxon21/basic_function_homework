@@ -2,5 +2,4 @@
 
 # Return the value str type.
 def main():
-    return xayr
-    
+    return "xayr""
